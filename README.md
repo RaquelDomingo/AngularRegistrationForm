@@ -1,3 +1,6 @@
+<img width="867" alt="registration" src="https://user-images.githubusercontent.com/29441324/31867705-f28f6476-b748-11e7-9335-5c0a937cb77c.png">
+
+
 # Registration
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
