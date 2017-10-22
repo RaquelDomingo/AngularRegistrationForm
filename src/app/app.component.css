@@ -1,0 +1,122 @@
+* {
+    
+	font-family: ABeeZee;
+	
+}
+.account{
+    font-weight: bold;
+	font-family: ABeeZee;
+	font-size: 1.8em;
+    padding-top: 10px;
+}
+.wrapper{
+    border: 4px solid black;
+    padding: 10px 10px 10px 50px;
+    margin-left: 30px;
+    height: 800px;
+    width: 700px;  
+}
+span{
+    color: blue;
+}
+h1 {
+    font-size: 55px;
+    position: relative;
+    margin-left: 30px;
+    /*right: 30px;*/
+    /*bottom: 30px;*/
+}
+
+input[type=text] {
+    width: 300px;
+    height: 35px;
+    padding-left: 10px;
+    margin: 5px;
+    
+}
+
+input[type=password] {
+    width: 300px;
+    height: 35px;
+    padding-left: 10px;
+    margin: 5px;
+}
+
+select {
+    width: 315px;
+    height: 35px;
+    padding-left: 10px;
+    margin: 5px;
+    color: #000;
+}
+
+input[type=submit] {
+    background-color: #eee;
+    color: #000;
+    border: 1px;
+    box-shadow: 5px 5px 5px black;
+    font-size:14px;
+    font-weight:bold;
+    display: inline;
+    width: 650px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.success {
+    /*width: 315px;
+    height: 75px;
+    position: relative;
+    left: 5px;
+    bottom: 40px;*/
+    background: skyblue;
+    font-size: 14px;
+    border: 2px solid black;
+    height: 100px;
+    width: 690px;
+    padding: 10px 10px 10px 10px;
+    margin-left: 45px;
+    margin-bottom: 30px;
+}
+
+.align {
+    display: inline-flex;
+    float: center;
+    text-align: left;
+}
+
+.valid {
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
+
+.invalid {
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
+
+.feeling {
+    color: red;
+    font-weight: bold;
+    position: relative;
+    left: 140px;
+}
+
+.ng-invalid {  }
+.ng-valid { }
+.ng-untouched { }
+.ng-touched { }
+.ng-dirty { }
+.ng-pristine { }
+
+.valid {
+    color: green;
+    font-weight: bold;
+    margin-top: 10px;
+}
+.invalid {
+    color: red;
+    font-weight: bold;
+}
